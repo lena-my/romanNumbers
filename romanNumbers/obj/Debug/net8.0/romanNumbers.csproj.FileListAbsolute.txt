@@ -1,0 +1,15 @@
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/bin/Debug/net8.0/romanNumbers
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/bin/Debug/net8.0/romanNumbers.deps.json
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/bin/Debug/net8.0/romanNumbers.runtimeconfig.json
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/bin/Debug/net8.0/romanNumbers.dll
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/bin/Debug/net8.0/romanNumbers.pdb
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.AssemblyInfoInputs.cache
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.AssemblyInfo.cs
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.csproj.CoreCompileInputs.cache
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.sourcelink.json
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.dll
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/refint/romanNumbers.dll
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.pdb
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/romanNumbers.genruntimeconfig.cache
+/Users/helenamiura/Projects/Net/16-romanNumbers/romanNumbers/obj/Debug/net8.0/ref/romanNumbers.dll
